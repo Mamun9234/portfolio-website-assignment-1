@@ -1,0 +1,31 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.font-Inter {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  }
+  nav{
+    width: 80%;
+    max-width: 1600px;
+    height: 92px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    }
+    nav .logo-navbar{
+      padding-left: 120px;
+      width: 139px;
+      height: 60;
+  }
+  ul{
+    list-style: none;
+    display: flex;
+    gap: 32px;
+    align-items: center;
+    
+  }
