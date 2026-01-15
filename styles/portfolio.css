@@ -27,5 +27,8 @@
     display: flex;
     gap: 32px;
     align-items: center;
-    
+    padding: 34px 630px 605px;
+    font-weight: 365;
+    font height: 24px;
+    font-color: #000000;   
   }
