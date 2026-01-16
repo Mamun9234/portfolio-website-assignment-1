@@ -22,6 +22,7 @@
       cursor: pointer;
       background-color: #30B868
     }
+    
     /* main style */
   nav{
     width: 85%;
@@ -50,6 +51,56 @@
     justify-content: flex-start;
     align-items: center;
     gap: 32px;
+    }
+
+    #banner{
+      width: 2042px;
+      height: 1363px;
+      margin: 0 auto;
+      display: flexbox;
+      border: 1px solid red;
+      background: url(../Images/hero-bg.png)   
+        }
+
+    .btn-2{
+      /* align-items: center; */
+      width: 229px;
+      height: 35px;
+      border: none;
+      border-radius: 1000px;
+      padding: 8px 12px;
+      font-size: 16px;
+      font-weight: medium;
+      color: #30B868;
+      background-color: #FFFFFF;
+      display: flex;
+          
+      
+      /* justify-content: center; */
+      /* margin-top: 207.5px;
+      margin-left: 685.5px;
+      margin-right: 685.5px; */
+      /* margin: 207.5px 685.5px 2665.5px 685.5px;      */
+    }
+    #banner h1{
+      font-size: 72px;
+      font-weight: 700;
+      color: #FFFFFF;
+      text-align: center;
+      line-height: 84px;
+      margin: 205.5px 636px 989.5px 636px;
+
+    }
+   /* #banner .banner-img img{
+      max-width: 50px;
+      height: 674px;
+      padding: 39px 221px 650px 221px;989
+      align-items: center;
+      border: 1px solid red; */
+
+      
+      /* align-items: center;
+      justify-content: center; */
     }
    
     
